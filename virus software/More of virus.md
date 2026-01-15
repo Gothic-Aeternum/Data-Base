@@ -1,4 +1,4 @@
-Gothic Aeternum
+<h1> © Gothic Aeternum © </h1>
 Based information about VIRUS software.
 
 Вирусное ПО (компьютерный вирус) — вид вредоносных программ, способных внедряться в код других программ, системные области памяти, загрузочные секторы и распространять свои копии по разнообразным каналам связи. 
@@ -62,3 +62,4 @@ According to the vulnerabilities used
 Worms infect one computer, and then spread through computer networks to other machines without the involvement of their owners. By exploiting network vulnerabilities, such as flaws in email clients, worms can send thousands of copies of themselves and infect all new systems, and then the process begins again.
 Invisible viruses use various methods of disguise to avoid detection by antivirus software.
 Mutants are constantly changing their code to avoid detection.
+
