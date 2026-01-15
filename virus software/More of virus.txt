@@ -1,0 +1,64 @@
+Gothic Aeternum
+Based information about VIRUS software.
+
+Вирусное ПО (компьютерный вирус) — вид вредоносных программ, способных внедряться в код других программ, системные области памяти, загрузочные секторы и распространять свои копии по разнообразным каналам связи. 
+
+Вирусы могут классифицироваться по разным признакам, например по механизму распространения, принципу действия, степени опасности или используемым уязвимостям. Единой системы классификации вирусов нет. 
+
+По механизму распространения
+Резидентные — остаются в памяти компьютера после заражения и могут заражать другие программы.
+Нерезидентные — не остаются в памяти и действуют только на заражённые файлы.
+По среде обитания:
+Сетевые — распространяются по сети и используют уязвимости в системах безопасности для заражения других компьютеров.
+Файловые — заражают исполняемые файлы (.exe, .com) и могут переноситься между компьютерами через съёмные носители или электронную почту.
+Загрузочные — инфицируют загрузочные секторы жёстких дисков и загружаются при старте операционной системы.
+Макровирусы — поражают приложения, использующие макроязыки (например, Microsoft Word или Excel), и пишутся на языке макросов.
+ 
+По принципу действия
+Перезаписывающие — вирус внедряет свой код вместо кода исходного файла, содержимое последнего уничтожается.
+Паразитические — при распространении своих копий изменяют содержимое документов, что приводит к тому, что файлы становятся полностью или частично работоспособными.
+Компаньоны — создают для заражаемых объектов двойники и получают доступ к управлению при их запуске.
+Ссылки — не меняют содержимого, но заставляют ОС выполнять свой код.
+ 
+По степени опасности
+Безопасные — не наносят какого-либо ущерба компьютеру, за исключением расходования свободного места на диске во время своего распространения.
+Безвредные — не мешают работе компьютера, но занимают оперативную память и место на диске, их действия проявляются в виде графических или звуковых эффектов.
+Опасные — способны вызвать различные сбои в работе компьютера — например, перезагрузку, зависание.
+Очень опасные — от воздействия таких вирусов ПО, установленное на ПК, перестаёт нормально работать, уничтожаются важные файлы, а в системных областях диска стирается информация, что приводит к повреждению операционной системы.
+ 
+По используемым уязвимостям
+Черви — заражают один компьютер, а затем через компьютерные сети распространяются на другие машины без участия их владельцев. Используя уязвимости сети, например, недостатки в почтовых программах, черви могут отправлять тысячи своих копий и заражать все новые системы, и затем процесс начинается снова.
+Вирусы-невидимки — используют различные методы маскировки, чтобы избежать обнаружения антивирусным ПО.
+Мутанты — постоянно изменяют свой код, чтобы избегать обнаружения.
+
+Eng:
+
+Virus software (computer virus) is a type of malware capable of embedding itself in the code of other programs, system memory areas, boot sectors and distributing copies of itself through various communication channels. 
+
+Viruses can be classified according to different criteria, such as the mechanism of spread, the principle of action, the degree of danger, or the vulnerabilities used. There is no unified virus classification system. 
+
+By distribution mechanism
+Resident — they remain in the computer's memory after infection and can infect other programs.
+Non—resident - they do not remain in memory and act only on infected files.
+By habitat:
+Network — spread across the network and exploit security vulnerabilities to infect other computers.
+File files infect executable files (.exe, .com) and can be transferred between computers via removable media or e—mail.
+Bootable — they infect the boot sectors of hard drives and are loaded when the operating system starts.
+Macro viruses infect applications using macro languages (for example, Microsoft Word or Excel), and are written in the language of macros.
+ 
+According to the principle of operation
+Overwriting — the virus inserts its own code instead of the source file code, the contents of the latter are destroyed.
+Parasitic — when distributing their copies, they change the contents of documents, which leads to the files becoming fully or partially functional.
+Companions — create doppelgangers for infected objects and gain access to management when they are launched.
+Links do not change the content, but they force the OS to execute its code.
+ 
+According to the degree of danger
+Secure — they do not cause any damage to the computer, except for using up free disk space during their distribution.
+Harmless — they do not interfere with computer operation, but they take up RAM and disk space, and their actions manifest themselves in the form of graphic or sound effects.
+Dangerous — they can cause various computer failures, such as restarting or freezing.
+Very dangerous — due to the effects of such viruses, the software installed on the PC stops working normally, important files are destroyed, and information is erased in the system areas of the disk, which leads to damage to the operating system.
+ 
+According to the vulnerabilities used
+Worms infect one computer, and then spread through computer networks to other machines without the involvement of their owners. By exploiting network vulnerabilities, such as flaws in email clients, worms can send thousands of copies of themselves and infect all new systems, and then the process begins again.
+Invisible viruses use various methods of disguise to avoid detection by antivirus software.
+Mutants are constantly changing their code to avoid detection.
